@@ -1,1 +1,4 @@
-:tada:
+:cloud:
+:zap:
+:ocean:
+:wolf:
